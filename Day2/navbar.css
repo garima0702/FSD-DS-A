@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#mydiv{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#header{
+    display: flex;
+    width: 100vw;
+    background-color: #FFFFFF;
+    justify-content: center;
+    gap: 20px;
+    justify-content:space-between;
+    align-items: center;
+    box-shadow: 0 0 5px lightgray;
+
+}
+#header .logo{
+    display: flex;
+    align-items: center;
+}
+#header .logo h1{
+    color: rgba(255, 115, 0, 0.961);
+
+}
+#header .menu{
+    display: flex;
+    gap:1.5vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav-items{
+    font-size: 18px;
+    font-family: Poppins;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+#header .nav-right{
+    display: flex;
+    gap:1.5vw;
+    margin-left: auto;
+    margin-right: 10px;
+    
+}
+.login{
+    width:Hug (104px)px;
+    height:Hug (48px)px;
+    padding:12px 20px 12px 20px;
+    background: linear-gradient(180deg, #3940A0 0%, #3CA3C1 100%);
+    opacity:0px;
+    margin-right:3px;
+    border-radius:10px;
+    border:1px solid grey;
+    color: #FFFFFF;
+}
+.signup
+{
+  width: Hug (104px)px;
+  height: Hug (48px)px;
+  padding: 12px 20px 12px 20px;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #1d7b39 0%, #05eb33 100%);
+  opacity: 0px;
+  border: 1px solid grey;
+  color: #FFFFFF;
+}
+
