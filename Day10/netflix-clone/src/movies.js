@@ -1,0 +1,88 @@
+const movies =[
+    {
+    id:1,
+    image:"https://rukminim2.flixcart.com/image/612/612/xif0q/movie/4/f/r/2009-dvd-eagle-hindi-tarzan-the-wonder-car-original-imahfdpjpqg85j5d.jpeg?q=70",
+    title:"Tarzan the Wonder Car",
+    language:"Hindi",
+    cost:200,
+},
+{
+    id:2,
+    image:"https://rukminim2.flixcart.com/image/612/612/av-media/movies/e/n/c/dhoom-3-original-imadvw2ypnsm38at.jpeg?q=70",
+    title:"Dhoom3",
+    language:"Hindi",
+    cost:250,
+},
+{
+    id:3,
+    image:"https://rukminim2.flixcart.com/image/612/612/av-media/movies/d/6/a/dilwale-dulhania-le-jayenge-dil-to-pagal-hai-original-imadmyghnzenyzwf.jpeg?q=70",
+    title:"DDLJ",
+    language:"Hindi",
+    cost:699,
+},
+{
+    id:4,
+    image:"https://rukminim2.flixcart.com/image/612/612/jeokbrk0/movie/z/6/2/2009-dvd-excel-home-videos-english-avatar-original-imaf3bd6zed7phes.jpeg?q=70",
+    title:"Avatar",
+    language:"Hindi",
+    cost:700,
+},
+{
+    id:5,
+    image:"https://rukminim2.flixcart.com/image/612/612/kl9rssw0/movie/h/2/g/2020-dvd-20th-century-fox-excel-home-videos-english-titanic-original-imagyfz7ct8mqjpw.jpeg?q=70",
+    title:"Titanic",
+    language:"Hindi",
+    cost:900,
+},
+{
+    id:6,
+    image:"https://rukminim2.flixcart.com/image/612/612/jqo3b0w0/movie/5/r/s/2019-dvd-sony-pictures-excel-home-videos-english-ghost-rider-original-imafchw2yueuatag.jpeg?q=70",
+    title:"Ghost Rider",
+    language:"Hindi",
+    cost:600,
+},
+{
+    id:7,
+    image:"https://rukminim2.flixcart.com/image/612/612/jqo3b0w0/movie/5/r/s/2019-dvd-sony-pictures-excel-home-videos-english-ghost-rider-original-imafchw2yueuatag.jpeg?q=70",
+    title:"Ghost Rider",
+    language:"Hindi",
+    cost:600,
+},
+{
+    id:8,
+    image:"https://rukminim2.flixcart.com/image/612/612/jqo3b0w0/movie/5/r/s/2019-dvd-sony-pictures-excel-home-videos-english-ghost-rider-original-imafchw2yueuatag.jpeg?q=70",
+    title:"Ghost Rider",
+    language:"Hindi",
+    cost:600,
+},
+{
+    id:9,
+    image:"https://rukminim2.flixcart.com/image/612/612/jqo3b0w0/movie/5/r/s/2019-dvd-sony-pictures-excel-home-videos-english-ghost-rider-original-imafchw2yueuatag.jpeg?q=70",
+    title:"Ghost Rider",
+    language:"Hindi",
+    cost:600,
+},
+{
+    id:10,
+    image:"https://rukminim2.flixcart.com/image/612/612/jqo3b0w0/movie/5/r/s/2019-dvd-sony-pictures-excel-home-videos-english-ghost-rider-original-imafchw2yueuatag.jpeg?q=70",
+    title:"Ghost Rider",
+    language:"Hindi",
+    cost:600,
+},
+{
+    id:11,
+    image:"https://rukminim2.flixcart.com/image/612/612/jqo3b0w0/movie/5/r/s/2019-dvd-sony-pictures-excel-home-videos-english-ghost-rider-original-imafchw2yueuatag.jpeg?q=70",
+    title:"Ghost Rider",
+    language:"Hindi",
+    cost:600,
+},
+{
+    id:12,
+    image:"https://rukminim2.flixcart.com/image/612/612/jqo3b0w0/movie/5/r/s/2019-dvd-sony-pictures-excel-home-videos-english-ghost-rider-original-imafchw2yueuatag.jpeg?q=70",
+    title:"Ghost Rider",
+    language:"Hindi",
+    cost:600,
+},
+];
+
+export default movies;

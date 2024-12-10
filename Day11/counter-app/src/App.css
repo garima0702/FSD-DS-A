@@ -1,7 +1,10 @@
 body{
   background-color: black;
 }
-.count-app{
+#pic{
+  margin-left: 200px;
+}
+/* .count-app{
   background-color:rgba(0, 255, 255, 0.82);
   text-align: center;
   margin-left: 430px;
@@ -51,4 +54,4 @@ body{
   width:80px;
   height:25px;
   text-align: center;
-}
+} */

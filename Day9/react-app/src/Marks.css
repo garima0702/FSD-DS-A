@@ -1,0 +1,16 @@
+#sem{
+    background-color: aqua;
+    font-size: 20px;
+    color:black;
+    border-radius: 5px;
+
+}
+h1{
+    background-color: rgb(212, 233, 233);
+    color: black;
+    font-size: 15px;
+}
+h2{
+    background-color: rgb(174, 224, 56);
+    color: rgb(67, 67, 235);
+}
